@@ -24,10 +24,10 @@ Welcome to my first project as a junior developer! 🚀 This website is a vibran
 
 
 ![Screenshot 2024-01-07 174636](https://github.com/LouisCorin/ShopifyShowcase-Louis/assets/105444897/802b1b9f-868d-4e76-abf8-9f724bbc54df)
-![Screenshot 2024-01-07 174523](https://github.com/LouisCorin/ShopifyShowcase-Louis/assets/105444897/76768bbe-18a5-4e0e-88fb-b032fc576965)
 ![Screenshot 2024-01-07 174653](https://github.com/LouisCorin/ShopifyShowcase-Louis/assets/105444897/99d6e57f-cf71-42e5-a17c-7c6a3e91d80b)
 ![Screenshot 2024-01-07 174320](https://github.com/LouisCorin/ShopifyShowcase-Louis/assets/105444897/1275a6bc-3a91-4180-93ef-7bdb2b4abc74)
 ![Screenshot 2024-01-07 174643](https://github.com/LouisCorin/ShopifyShowcase-Louis/assets/105444897/babf1526-b078-48ea-86f6-1ce5f0fbd459)
+![Screenshot 2024-01-07 174523](https://github.com/LouisCorin/ShopifyShowcase-Louis/assets/105444897/76768bbe-18a5-4e0e-88fb-b032fc576965)
 
 
 ## How to Use
