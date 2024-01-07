@@ -20,7 +20,8 @@ Welcome to my first project as a junior developer! 🚀 This website is a vibran
 - JS
 
 ## Screenshots
-![Uploading 33.gif…]()
+
+![33](https://github.com/LouisCorin/ShopifyShowcase-Louis/assets/105444897/4cad9484-b6f6-4a8c-a00b-e8bbabe3e549)
 
 
 ![Screenshot 2024-01-07 174636](https://github.com/LouisCorin/ShopifyShowcase-Louis/assets/105444897/802b1b9f-868d-4e76-abf8-9f724bbc54df)
