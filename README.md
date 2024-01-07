@@ -30,8 +30,6 @@ Welcome to my first project as a junior developer! 🚀 This website is a vibran
 ![Screenshot 2024-01-07 174523](https://github.com/LouisCorin/ShopifyShowcase-Louis/assets/105444897/76768bbe-18a5-4e0e-88fb-b032fc576965)
 
 
-## How to Use
-Feel free to navigate through the pages to get a feel of our creative marketing world.
 
 ## Future Plans
 Exciting enhancements coming soon! Stay tuned for more engaging features.
